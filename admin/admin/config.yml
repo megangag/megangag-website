@@ -1,0 +1,27 @@
+
+backend:
+  name: github
+  repo: megangag/megangag-website
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "shows"
+    label: "Shows"
+    files:
+      - name: "events"
+        label: "Auftritte verwalten"
+        file: "shows.json"
+        fields:
+          - label: "Auftritte"
+            name: "events"
+            widget: "list"
+            summary: "{{fields.date}} – {{fields.title}}"
+            fields:
+              - {label: "Datum", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD"}
+              - {label: "Eventname", name: "title", widget: "string"}
+              - {label: "Location", name: "venue", widget: "string"}
+              - {label: "Stadt", name: "city", widget: "string"}
+              - {label: "Ticketlink", name: "url", widget: "string", required: false}
