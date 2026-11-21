@@ -1,0 +1,75 @@
+
+{
+  "events": [
+    {
+      "date": "2026-12-05",
+      "title": "Eingeschneit",
+      "venue": "Stanzerei",
+      "city": "Baden",
+      "url": "https://www.jolenethekween.com/"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "ØYA Drag Karaoke",
+      "venue": "ØYA",
+      "city": "St. Gallen",
+      "url": "https://spot-event.eu/event/80898/drag-karaoke-in-der-jubilaeumswoche"
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Frigo Drag Brunch",
+      "venue": "Hive Club",
+      "city": "Zürich",
+      "url": "https://community.hiveclub.ch/de/c/drag-brunch-nice-or-naughty-santas-coming-edition-by-frigo-2173"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "OhG! It’s Drag – Grand Xmas",
+      "venue": "Sudhaus",
+      "city": "Basel",
+      "url": "https://tickets.sudhaus.ch/events/ohg-it-s-drag-grand-xmas"
+    },
+    {
+      "date": "2026-12-19",
+      "title": "OhG! It’s Drag – Christmas Special",
+      "venue": "Millers",
+      "city": "Zürich",
+      "url": "https://www.millers.ch/spielplan/detail/oh-g-its-drag-2325?tx_muehleramakurse_kurse%5Bdurchfuehrung%5D=3188"
+    },
+    {
+      "date": "2027-01-16",
+      "title": "Wigs n Waffles",
+      "venue": "Bloom",
+      "city": "Winterthur",
+      "url": "https://eventfrog.ch/de/p/theater-buehne/wigs-n-waffles-der-drag-brunch-in-winterthur-winterthur-7526064502019778640.html"
+    },
+    {
+      "date": "2027-03-19",
+      "title": "OhG! It’s Drag – All Time Favorites",
+      "venue": "Atlantis",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/musicals-shows/travestie/ohg-it-s-drag-all-time-favorites-basel-7468048837048851327.html"
+    },
+    {
+      "date": "2027-03-20",
+      "title": "OhG! It’s Drag – All Time Favorites",
+      "venue": "Millers",
+      "city": "Zürich",
+      "url": "https://www.millers.ch/spielplan/detail/oh-g-its-drag-2325"
+    },
+    {
+      "date": "2027-05-21",
+      "title": "OhG! It’s Drag – A Thousand & The One Odette",
+      "venue": "Atlantis",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/gruppen/ohg-it-s-drag-jubilee-by-odette-hella-grand-7467997200859024221.html"
+    },
+    {
+      "date": "2027-05-22",
+      "title": "OhG! It’s Drag – A Thousand & The One Odette",
+      "venue": "Millers",
+      "city": "Zürich",
+      "url": "https://www.millers.ch/spielplan/detail/oh-g-its-drag-1-3185"
+    }
+  ]
+}
