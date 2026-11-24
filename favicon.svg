@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="20" fill="#F3A0C0"/>
+  <text x="57" y="77" fill="#254879"
+        font-size="49" font-weight="900"
+        font-family="Arial, sans-serif"
+        text-anchor="middle" letter-spacing="-3">MG</text>
+  <path d="M97 13 Q97 28 112 28 Q97 28 97 43 Q97 28 82 28 Q97 28 97 13"
+        fill="#254879"/>
+</svg>
